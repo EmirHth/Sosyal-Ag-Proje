@@ -1,0 +1,9 @@
+{
+  "category": "evcil_hayvan",
+  "core_terms": ["kedi mamasi", "kopek mamasi", "otomatik mama kabi", "pet su sebili", "kedi tirmalama diregi", "pet tasima cantasi", "pet yatagi", "kedi oyuncagi", "kopek oyuncagi", "pet sampuani", "pati kremi", "kum kabi", "kum kuregI", "pet tarağı seti", "tasma etiketi", "kus kafesi", "akvaryum filtresi", "pet bakim eldiveni", "kedi evi", "kopek evi"],
+  "product_nouns": ["mama", "kabı", "kabi", "sebil", "tasma", "cantasi", "yatagi", "oyuncagi", "sampuani", "kremi", "kumu", "kafesi", "filtresi", "tarağı", "taragi", "eldiveni", "evi", "vitamini", "kemigi", "seti"],
+  "descriptors": ["kedi", "kopek", "pet", "kus", "akvaryum", "bakim", "otomatik", "yikanabilir", "oyuncak", "odul"],
+  "audiences": ["kedi", "kopek", "pet sahibi", "kus sahibi", "akvaryum sahibi"],
+  "contexts": ["evde", "bakim", "beslenme", "oyun", "seyahat"],
+  "suffixes": ["seti", "kiti", "urunu", "paketi"]
+}

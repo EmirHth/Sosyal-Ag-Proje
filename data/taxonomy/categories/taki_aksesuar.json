@@ -1,0 +1,9 @@
+{
+  "category": "taki_aksesuar",
+  "core_terms": ["altin kolye", "gumus yuzuk", "inci kupe", "charm bileklik", "minimal kolye", "halhal", "takı seti", "taki seti", "telefon askisi", "gozluk zinciri", "bilezik", "baget yuzuk", "isim kolyesi", "harf kolye", "celik bileklik", "dogal tas kolye", "kupe seti", "aksesuar kutusu", "taki organizer", "minimal kupe"],
+  "product_nouns": ["kolye", "yuzuk", "kupe", "bileklik", "bilezik", "halhal", "seti", "askisi", "zinciri", "kutusu", "organizer", "charmi", "tasmasi", "tokasi", "brosu", "piercingi", "aksesuarı", "aksesuari", "kolyesi", "kupesi"],
+  "descriptors": ["altin", "gumus", "minimal", "inci", "celik", "dogal tas", "tasli", "gundelik", "ozel gun", "hediyelik"],
+  "audiences": ["kadin", "erkek", "genc", "unisex", "hediye"],
+  "contexts": ["gunluk kullanim", "ozel gun", "hediye", "kombin", "etkinlik"],
+  "suffixes": ["seti", "koleksiyonu", "kutusu", "paketi"]
+}

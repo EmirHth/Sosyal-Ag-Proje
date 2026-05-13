@@ -1,0 +1,9 @@
+{
+  "category": "fitness_saglik",
+  "core_terms": ["protein tozu", "kreatin", "kolajen", "vitamin", "magnezyum", "matara", "shaker", "direnc bandi", "yoga mati", "pilates topu", "foam roller", "protein bar", "sporcu icecegi", "wellness urunu", "diyet urunu", "supplement", "pre workout", "glutamin", "spor havlusu", "kosu ayakkabisi"],
+  "product_nouns": ["protein", "supplement", "shaker", "matara", "bant", "mati", "topu", "havlusu", "vitamin", "kolajen", "kreatin", "elektrolit", "smoothie", "bar", "ayakkabisi", "eldiveni", "cantasi", "urunu", "seti", "paketi"],
+  "descriptors": ["spor", "fitness", "pilates", "yoga", "kosu", "saglikli", "wellness", "antrenman", "fit", "diyet"],
+  "audiences": ["kadin", "erkek", "sporcu", "unisex", "aktif yasam"],
+  "contexts": ["antrenman", "salon", "evde spor", "outdoor", "gunluk rutin"],
+  "suffixes": ["seti", "paketi", "kiti", "urunu"]
+}

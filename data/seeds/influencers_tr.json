@@ -1,0 +1,16 @@
+[
+  {"username": "danlabilic", "expected_category": "güzellik/kozmetik"},
+  {"username": "duyguozaslan", "expected_category": "güzellik/kozmetik"},
+  {"username": "eczcanankaraca", "expected_category": "cilt bakımı/eczacı"},
+  {"username": "pucca", "expected_category": "moda/yaşam"},
+  {"username": "buseterim", "expected_category": "moda/yaşam"},
+  {"username": "bergulerdem", "expected_category": "moda/yaşam"},
+  {"username": "emrahyucel", "expected_category": "fitness/erkek"},
+  {"username": "kerimmusa", "expected_category": "fitness/erkek"},
+  {"username": "refikaninmutfagi", "expected_category": "yemek/mutfak"},
+  {"username": "ardabilenbaba", "expected_category": "yemek/mutfak"},
+  {"username": "ezgi_sertel", "expected_category": "anne/bebek"},
+  {"username": "tugceergisi", "expected_category": "anne/bebek"},
+  {"username": "gezimanya", "expected_category": "seyahat"},
+  {"username": "barbaros", "expected_category": "teknoloji"}
+]

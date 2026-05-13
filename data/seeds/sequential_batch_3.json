@@ -1,0 +1,284 @@
+[
+  {
+    "username": "aim30turkiye",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 4.52
+  },
+  {
+    "username": "vedanshkumar812",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 4.44
+  },
+  {
+    "username": "7.taetae",
+    "expected_category": "ev_yasam",
+    "business_likelihood": 0.2,
+    "score": 4.4
+  },
+  {
+    "username": "the.sayan10_",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 4.36
+  },
+  {
+    "username": "bar_academy_bulgaria",
+    "expected_category": "egitim_kariyer",
+    "business_likelihood": 0.2,
+    "score": 4.28
+  },
+  {
+    "username": "ishaan_international_school",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 4.28
+  },
+  {
+    "username": "__m_arco____._",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 0.2,
+    "score": 4.2
+  },
+  {
+    "username": "ro11ingsolo",
+    "expected_category": "oyuncak_hobi",
+    "business_likelihood": 0.2,
+    "score": 4.18
+  },
+  {
+    "username": "russian_cream78",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 4.16
+  },
+  {
+    "username": "alphonse_the_british",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 4.12
+  },
+  {
+    "username": "psc_kerala_321",
+    "expected_category": "ev_yasam",
+    "business_likelihood": 0.4,
+    "score": 12.0
+  },
+  {
+    "username": "drmemnunealadag",
+    "expected_category": "anne_bebek",
+    "business_likelihood": 0.4,
+    "score": 9.04
+  },
+  {
+    "username": "undemircraft",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 8.48
+  },
+  {
+    "username": "neselitat",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.4,
+    "score": 8.18
+  },
+  {
+    "username": "pelletteriepinaercolano",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 0.4,
+    "score": 8.08
+  },
+  {
+    "username": "akash_singha_12",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 8.0
+  },
+  {
+    "username": "genuinerealpeople",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 8.0
+  },
+  {
+    "username": "ikkiturkiye",
+    "expected_category": "otomotiv",
+    "business_likelihood": 0.4,
+    "score": 8.0
+  },
+  {
+    "username": "proprofileai",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 8.0
+  },
+  {
+    "username": "quietpower_channel",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 8.0
+  },
+  {
+    "username": "bala_tech_0007",
+    "expected_category": "teknoloji",
+    "business_likelihood": 0.4,
+    "score": 7.56
+  },
+  {
+    "username": "ideaflowai",
+    "expected_category": "otomotiv",
+    "business_likelihood": 0.4,
+    "score": 6.0
+  },
+  {
+    "username": "petcarebyalicia",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.4,
+    "score": 6.0
+  },
+  {
+    "username": "avm.sepetim",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.4,
+    "score": 5.4
+  },
+  {
+    "username": "max_thewolf_husky01",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.4,
+    "score": 5.08
+  },
+  {
+    "username": "raj_gholap_26",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 4.76
+  },
+  {
+    "username": "udrescueduard",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 4.72
+  },
+  {
+    "username": "trending",
+    "expected_category": "yemek_mutfak",
+    "business_likelihood": 0.4,
+    "score": 4.44
+  },
+  {
+    "username": "apogeewp1",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.6,
+    "score": 4.12
+  },
+  {
+    "username": "stockwatch_daily",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.8,
+    "score": 16.0
+  },
+  {
+    "username": "saninbabybutik",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 1.0,
+    "score": 60.3
+  },
+  {
+    "username": "eslimbebekbutik",
+    "expected_category": "anne_bebek",
+    "business_likelihood": 1.0,
+    "score": 42.0
+  },
+  {
+    "username": "minicitystore",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 1.0,
+    "score": 11.0
+  },
+  {
+    "username": "bergamabutikegitim",
+    "expected_category": "egitim_kariyer",
+    "business_likelihood": 1.0,
+    "score": 8.22
+  },
+  {
+    "username": "cat_dogloversofficial",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 1.0,
+    "score": 8.0
+  },
+  {
+    "username": "poncikbaby.butik",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 1.0,
+    "score": 8.0
+  },
+  {
+    "username": "vunrostore",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 1.0,
+    "score": 8.0
+  },
+  {
+    "username": "mimabebekbutikk",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 1.0,
+    "score": 6.08
+  },
+  {
+    "username": "mini_baby.butik",
+    "expected_category": "anne_bebek",
+    "business_likelihood": 1.0,
+    "score": 6.08
+  },
+  {
+    "username": "instahaber.io",
+    "expected_category": "otomotiv",
+    "business_likelihood": 1.0,
+    "score": 6.0
+  },
+  {
+    "username": "mamaturka_babystore",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 1.0,
+    "score": 6.0
+  },
+  {
+    "username": "felinemagnoliashop",
+    "expected_category": "yemek_mutfak",
+    "business_likelihood": 1.0,
+    "score": 5.2
+  },
+  {
+    "username": "sharedworldnews",
+    "expected_category": "teknoloji",
+    "business_likelihood": 1.0,
+    "score": 4.4
+  },
+  {
+    "username": "linaberry_shop",
+    "expected_category": "oyuncak_hobi",
+    "business_likelihood": 1.0,
+    "score": 4.32
+  },
+  {
+    "username": "kozmebutikcom",
+    "expected_category": "anne_bebek",
+    "business_likelihood": 1.0,
+    "score": 4.16
+  },
+  {
+    "username": "polatlihabergazetesi",
+    "expected_category": "teknoloji",
+    "business_likelihood": 1.0,
+    "score": 4.16
+  },
+  {
+    "username": "gem_boutique_pet_jewelry",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 1.2,
+    "score": 4.96
+  }
+]

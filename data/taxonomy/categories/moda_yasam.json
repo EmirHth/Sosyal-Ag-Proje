@@ -1,0 +1,9 @@
+{
+  "category": "moda_yasam",
+  "core_terms": ["elbise", "gomlek", "pantolon", "ceket", "ayakkabi", "canta", "etek", "hirka", "abiye", "tesettur giyim", "sneaker", "bot", "sapka", "gozluk", "kemer", "cuzdan", "sirt cantasi", "oversize gomlek", "pijama takimi", "blazer ceket"],
+  "product_nouns": ["elbise", "gomlek", "pantolon", "ceket", "canta", "ayakkabi", "etek", "kazak", "hirka", "hoodie", "sweatshirt", "abiye", "bot", "sandalet", "sapka", "gozluk", "kemer", "cuzdan", "takim", "pijama"],
+  "descriptors": ["gunluk", "klasik", "oversize", "minimal", "sokak stili", "ofis", "yazlik", "kislik", "spor", "tesettur"],
+  "audiences": ["kadin", "erkek", "genc", "unisex", "yetiskin"],
+  "contexts": ["kombin", "ofis", "davet", "seyahat", "gunluk stil"],
+  "suffixes": ["seti", "kombini", "koleksiyonu", "paketi"]
+}

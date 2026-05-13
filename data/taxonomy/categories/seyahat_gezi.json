@@ -1,0 +1,9 @@
+{
+  "category": "seyahat_gezi",
+  "core_terms": ["kabin boy valiz", "seyahat adaptoru", "boyun yastigi", "kamp ocagi", "kamp lambasi", "uyku tulumu", "trekking batonu", "kamp sandalyesi", "travel mug", "pasaport cuzdani", "seyahat organizer", "valiz etiketi", "kamp matı", "kamp mati", "outdoor termos", "cadir", "piknik seti", "hamak", "karavan aksesuari", "outdoor sirt cantasi"],
+  "product_nouns": ["valiz", "adaptoru", "yastigi", "ocagi", "lambasi", "tulumu", "batonu", "sandalyesi", "mug", "cuzdani", "organizer", "etiketi", "mati", "termos", "cadir", "seti", "hamak", "cantasi", "kilidi", "ortusu"],
+  "descriptors": ["seyahat", "gezi", "kamp", "outdoor", "trekking", "karavan", "ucak", "otel", "tatil", "yolculuk"],
+  "audiences": ["gezgin", "kampci", "seyahat sever", "backpacker", "aile"],
+  "contexts": ["kamp", "ucus", "otel", "outdoor", "yolculuk"],
+  "suffixes": ["seti", "kiti", "aksesuari", "urunu"]
+}

@@ -1,0 +1,9 @@
+{
+  "category": "otomotiv",
+  "core_terms": ["oto sampuan", "araba yikama seti", "direksiyon kilifi", "koltuk koruyucu", "araç içi organizer", "arac ici organizer", "oto supurge", "park sensoru", "dash cam", "navigasyon cihazi", "jant fircasi", "cila bezi", "telefon tutucu araba", "cam filmi", "lastik tamir kiti", "hava kompresoru", "cam buzu kaziyici", "oto kamera", "sunshield", "motor temizleyici"],
+  "product_nouns": ["sampuan", "seti", "kilifi", "organizer", "supurge", "sensoru", "kamera", "navigasyon", "fircasi", "bezi", "tutucu", "filmi", "kiti", "kompresoru", "paspas", "cilasi", "temizleyici", "kokusu", "şarjı", "sarji"],
+  "descriptors": ["oto", "araba", "arac", "detailing", "bakim", "ic", "guvenlik", "yikama", "yol", "surus"],
+  "audiences": ["surucu", "arac sahibi", "oto sever", "filo", "gundelik surucu"],
+  "contexts": ["arac ici", "bakim", "guvenlik", "yolculuk", "temizlik"],
+  "suffixes": ["seti", "kiti", "aksesuari", "urunu"]
+}

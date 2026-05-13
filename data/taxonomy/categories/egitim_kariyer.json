@@ -1,0 +1,9 @@
+{
+  "category": "egitim_kariyer",
+  "core_terms": ["flash kart", "deneme seti", "soru bankasi", "konu anlatim kitabi", "not defteri", "planner", "ajanda", "kalem seti", "masa lambasi", "hesap makinesi", "online kurs", "egitim uyeligi", "kodlama seti", "dil karti", "egitim tableti", "sinav kitabi", "sticky note", "bullet journal", "cv rehberi", "sunum kumandasi"],
+  "product_nouns": ["kart", "defteri", "planner", "ajanda", "seti", "kitabi", "kursu", "uyeligi", "kalemi", "lambasi", "hesap makinesi", "tableti", "kodlama seti", "rehberi", "etiketi", "post it", "not kagidi", "cetveli", "kalem kutusu", "sandalyesi"],
+  "descriptors": ["egitici", "ogrenci", "sinav", "kariyer", "ofis", "online", "verimli", "planlama", "calisma", "hazirlik"],
+  "audiences": ["ogrenci", "ogretmen", "ofis calisani", "aday", "kariyer odakli"],
+  "contexts": ["ders calisma", "ofis", "sinav hazirlik", "planlama", "sunum"],
+  "suffixes": ["seti", "paketi", "kiti", "rehberi"]
+}

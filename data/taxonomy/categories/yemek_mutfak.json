@@ -1,0 +1,9 @@
+{
+  "category": "yemek_mutfak",
+  "core_terms": ["kahve makinesi", "french press", "espresso fincani", "kupa", "termos", "blender", "airfryer", "tencere", "tava", "sunum tabagi", "servis seti", "saklama kabi", "baharat seti", "meal prep kabi", "kesme tahtasi", "bicak seti", "caydanlik", "kahvalti seti", "pipetli kupa", "mutfak organizer"],
+  "product_nouns": ["kupa", "termos", "bardak", "fincan", "makinesi", "blender", "airfryer", "tencere", "tava", "tabak", "kasesi", "tepsisi", "kavanozu", "saklama kabi", "seti", "organizer", "kasigi", "tahtasi", "baharatligi", "lunch box"],
+  "descriptors": ["kahve", "cay", "mutfak", "sunum", "servis", "sicak icecek", "soguk icecek", "pratik", "gunluk", "ev tipi"],
+  "audiences": ["ev", "ofis", "aile", "gunluk kullanim", "misafirlik"],
+  "contexts": ["kahvalti", "aksam yemegi", "meal prep", "ofis", "piknik"],
+  "suffixes": ["seti", "kiti", "paketi", "urunu"]
+}

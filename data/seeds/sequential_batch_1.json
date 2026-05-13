@@ -1,0 +1,296 @@
+[
+  {
+    "username": "sinemuzunbeslenme",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.4
+  },
+  {
+    "username": "bebekvari",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.36
+  },
+  {
+    "username": "englishtimebasaksehir",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.3
+  },
+  {
+    "username": "englishtimesefakoy",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.3
+  },
+  {
+    "username": "guvenli_akademi",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.24
+  },
+  {
+    "username": "gzde_ayazz",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.24
+  },
+  {
+    "username": "pinar_denktas",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.24
+  },
+  {
+    "username": "fika.mag",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.2
+  },
+  {
+    "username": "tokatmem",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.2
+  },
+  {
+    "username": "bilicidanismanlik",
+    "expected_category": "egitim_kariyer",
+    "business_likelihood": 0.0,
+    "score": 6.12
+  },
+  {
+    "username": "saglikci_sayfasi",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.08
+  },
+  {
+    "username": "vodafonekocyigit",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.0
+  },
+  {
+    "username": "kaligraficik",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.64
+  },
+  {
+    "username": "reefunitynetwork",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.64
+  },
+  {
+    "username": "ana_fikirler",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.6
+  },
+  {
+    "username": "mydreamylife",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.6
+  },
+  {
+    "username": "siskonyazilimveotomasyon",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.52
+  },
+  {
+    "username": "villainousitalia",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.4
+  },
+  {
+    "username": "kpsssozluk",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.32
+  },
+  {
+    "username": "lifeofwadhwa",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 5.2
+  },
+  {
+    "username": "seynooodesign",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 5.2
+  },
+  {
+    "username": "ykssedebiyat",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.2
+  },
+  {
+    "username": "studiopari.co",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.16
+  },
+  {
+    "username": "kpssagskodlari",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.04
+  },
+  {
+    "username": "atolyebahar",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 5.0
+  },
+  {
+    "username": "bloggwithmom",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 5.0
+  },
+  {
+    "username": "sabine.xoxo_",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 5.0
+  },
+  {
+    "username": "deardilay",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.96
+  },
+  {
+    "username": "mirayela.blog",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.92
+  },
+  {
+    "username": "yaprakdoener.remscheid",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.92
+  },
+  {
+    "username": "dhy_strategist",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.88
+  },
+  {
+    "username": "turkcebaz",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.84
+  },
+  {
+    "username": "coquiette.jpg",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 4.8
+  },
+  {
+    "username": "dimensionepc",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.8
+  },
+  {
+    "username": "klncveterinerklinigi",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.8
+  },
+  {
+    "username": "jciculture",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.68
+  },
+  {
+    "username": "griffonbruxellois_off",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 4.66
+  },
+  {
+    "username": "erdemyazilimanadolulisesi",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.64
+  },
+  {
+    "username": "sevilayovali",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.64
+  },
+  {
+    "username": "ozgurozdekkk",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.56
+  },
+  {
+    "username": "cografya_pusula",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.52
+  },
+  {
+    "username": "gebzezirvesogukbaklava",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.52
+  },
+  {
+    "username": "huaico.gato",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 4.52
+  },
+  {
+    "username": "motaz_hayani",
+    "expected_category": "anne_bebek",
+    "business_likelihood": 0.0,
+    "score": 4.52
+  },
+  {
+    "username": "woofiesrestonherndon",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 4.52
+  },
+  {
+    "username": "yigitpetveteriner",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.52
+  },
+  {
+    "username": "celebrationstudio.ie",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.48
+  },
+  {
+    "username": "elli_beanyyy",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 4.48
+  },
+  {
+    "username": "folkslocalcoffee",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.48
+  }
+]

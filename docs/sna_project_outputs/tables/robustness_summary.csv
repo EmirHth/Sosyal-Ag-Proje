@@ -1,0 +1,6 @@
+nodes,edges,components,largest_component_size,density,average_degree,diameter_lcc,scenario
+389.0,6711.0,2.0,338.0,0.0889,34.5039,6.0,Baseline
+388.0,6650.0,2.0,337.0,0.0886,34.2784,6.0,Highest degree node removed (annevebebek2025)
+388.0,6657.0,2.0,337.0,0.0887,34.3144,6.0,Highest betweenness node removed (studyconkris)
+369.0,6015.0,2.0,318.0,0.0886,32.6016,7.0,Top 20 betweenness nodes removed
+369.0,6047.7333,2.0,320.4,0.0891,32.779,6.4667,Average of 30 random 20-node removals

@@ -1,0 +1,9 @@
+{
+  "category": "finans_is",
+  "core_terms": ["yatirim rehberi", "borsa egitimi", "kripto egitimi", "gelir gider tablosu", "bireysel finans kitabi", "e ticaret kursu", "muhasebe yazilimi", "fatura yazilimi", "butce takip uygulamasi", "startup rehberi", "is kurma rehberi", "nakit akisi planlamasi", "tasarruf plani", "hisse senedi rehberi", "fon analizi", "vergi planlamasi", "gelir tablosu", "kredi karti takibi", "stok takip yazilimi", "satis analizi araci"],
+  "product_nouns": ["rehberi", "egitimi", "uygulamasi", "yazilimi", "tablosu", "plani", "analizi", "kursu", "kiti", "paketi", "seti", "defteri", "ajandasi", "hesaplayici", "simulatoru", "modulu", "egitim paketi", "raporu", "takibi", "sistemi"],
+  "descriptors": ["yatirim", "borsa", "kripto", "finans", "is", "girisim", "muhasebe", "butce", "satis", "startup"],
+  "audiences": ["girisimci", "yatirimci", "isletme sahibi", "ofis", "freelancer"],
+  "contexts": ["is gelistirme", "finans yonetimi", "gelir gider", "e ticaret", "yatirim"],
+  "suffixes": ["seti", "paketi", "kiti", "rehberi"]
+}

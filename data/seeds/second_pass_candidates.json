@@ -1,0 +1,530 @@
+[
+  {
+    "username": "yatirimfirtinasi",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 71.86
+  },
+  {
+    "username": "ephesus.tsm",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 24.92
+  },
+  {
+    "username": "geziveturbulteni",
+    "expected_category": "seyahat_gezi",
+    "business_likelihood": 0.0,
+    "score": 24.18
+  },
+  {
+    "username": "dostkitapsahaf",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 24.16
+  },
+  {
+    "username": "yazarumutgunes",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 16.22
+  },
+  {
+    "username": "heliantol",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 16.18
+  },
+  {
+    "username": "guneydoguborsaqrubu",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 16.0
+  },
+  {
+    "username": "mayedergisi",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 11.32
+  },
+  {
+    "username": "cemalsureya.tr",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 9.94
+  },
+  {
+    "username": "dogadan_sd",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.0,
+    "score": 9.16
+  },
+  {
+    "username": "wstar.organization",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 8.16
+  },
+  {
+    "username": "tu.chiverio",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.0,
+    "score": 8.08
+  },
+  {
+    "username": "noventra_psd",
+    "expected_category": "otomotiv",
+    "business_likelihood": 0.0,
+    "score": 8.02
+  },
+  {
+    "username": "teknotikaksesuarservis",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 0.0,
+    "score": 8.0
+  },
+  {
+    "username": "marcelinosouza.oficial",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 7.78
+  },
+  {
+    "username": "juventusgaming",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.0,
+    "score": 6.94
+  },
+  {
+    "username": "exitettik",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.0,
+    "score": 6.88
+  },
+  {
+    "username": "utopivento",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 6.72
+  },
+  {
+    "username": "polatozluoglu",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 6.62
+  },
+  {
+    "username": "ulfesports",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.0,
+    "score": 6.6
+  },
+  {
+    "username": "esqulent",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.0,
+    "score": 6.42
+  },
+  {
+    "username": "zuzuvann",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.0,
+    "score": 6.38
+  },
+  {
+    "username": "qodifynet",
+    "expected_category": "otomotiv",
+    "business_likelihood": 0.0,
+    "score": 6.36
+  },
+  {
+    "username": "bilicidanismanlik",
+    "expected_category": "egitim_kariyer",
+    "business_likelihood": 0.0,
+    "score": 6.12
+  },
+  {
+    "username": "hissesinyal",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 6.12
+  },
+  {
+    "username": "oceptecom",
+    "expected_category": "otomotiv",
+    "business_likelihood": 0.0,
+    "score": 6.1
+  },
+  {
+    "username": "auraprintworks",
+    "expected_category": "dekorasyon_mobilya",
+    "business_likelihood": 0.0,
+    "score": 6.06
+  },
+  {
+    "username": "maibeautyatasehir",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.0,
+    "score": 6.04
+  },
+  {
+    "username": "teknomie",
+    "expected_category": "teknoloji",
+    "business_likelihood": 0.0,
+    "score": 6.04
+  },
+  {
+    "username": "elektroniklisanstr",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.0,
+    "score": 6.02
+  },
+  {
+    "username": "ayanciksahaf",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 6.0
+  },
+  {
+    "username": "gbfinmag",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.0,
+    "score": 6.0
+  },
+  {
+    "username": "igo.tecnologia",
+    "expected_category": "teknoloji",
+    "business_likelihood": 0.0,
+    "score": 6.0
+  },
+  {
+    "username": "igroray.ru",
+    "expected_category": "teknoloji",
+    "business_likelihood": 0.0,
+    "score": 6.0
+  },
+  {
+    "username": "pepperbogeybarcihomeandfitness",
+    "expected_category": "fitness_saglik",
+    "business_likelihood": 0.0,
+    "score": 6.0
+  },
+  {
+    "username": "kamiiemii",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.0,
+    "score": 5.98
+  },
+  {
+    "username": "buythetechtr",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 5.96
+  },
+  {
+    "username": "superhizliokuma",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 5.94
+  },
+  {
+    "username": "editionset.h",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 5.44
+  },
+  {
+    "username": "inonusoberesmi",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.0,
+    "score": 5.26
+  },
+  {
+    "username": "maviincimedikal",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.0,
+    "score": 5.12
+  },
+  {
+    "username": "gezginlerkampadrasan",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.94
+  },
+  {
+    "username": "globalgamers.esports",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.0,
+    "score": 4.86
+  },
+  {
+    "username": "gsb_pasinlergm",
+    "expected_category": "teknoloji",
+    "business_likelihood": 0.0,
+    "score": 4.68
+  },
+  {
+    "username": "futuristufuk",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.0,
+    "score": 4.64
+  },
+  {
+    "username": "idefinteriordesign",
+    "expected_category": "dekorasyon_mobilya",
+    "business_likelihood": 0.0,
+    "score": 4.48
+  },
+  {
+    "username": "milasverakitabevi",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.0,
+    "score": 4.46
+  },
+  {
+    "username": "crazyforbooks",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.44
+  },
+  {
+    "username": "antikmuzayedicilik",
+    "expected_category": "dekorasyon_mobilya",
+    "business_likelihood": 0.0,
+    "score": 4.42
+  },
+  {
+    "username": "cpetoday",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.4
+  },
+  {
+    "username": "forumplus_pansiyon",
+    "expected_category": "seyahat_gezi",
+    "business_likelihood": 0.0,
+    "score": 4.4
+  },
+  {
+    "username": "ibn_investorbrandnetwork",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.0,
+    "score": 4.4
+  },
+  {
+    "username": "paddingtonuk",
+    "expected_category": "genel",
+    "business_likelihood": 0.0,
+    "score": 4.4
+  },
+  {
+    "username": "serioustraders",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.0,
+    "score": 4.4
+  },
+  {
+    "username": "rota_al_dia",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 19.38
+  },
+  {
+    "username": "maykuafor5sofitel",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.2,
+    "score": 6.28
+  },
+  {
+    "username": "ligareal98",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.2,
+    "score": 6.02
+  },
+  {
+    "username": "flixgames2024",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.2,
+    "score": 6.0
+  },
+  {
+    "username": "minaa_design_",
+    "expected_category": "oyuncak_hobi",
+    "business_likelihood": 0.2,
+    "score": 6.0
+  },
+  {
+    "username": "playeronetech67",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.2,
+    "score": 6.0
+  },
+  {
+    "username": "techfindshub3",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.2,
+    "score": 6.0
+  },
+  {
+    "username": "dogayolcusu09",
+    "expected_category": "evcil_hayvan",
+    "business_likelihood": 0.2,
+    "score": 5.54
+  },
+  {
+    "username": "fatosun_leziz_mutfagi",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 5.44
+  },
+  {
+    "username": "lighting_star0406",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 5.2
+  },
+  {
+    "username": "p0bori",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 5.2
+  },
+  {
+    "username": "1hukukevreni",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.2,
+    "score": 4.76
+  },
+  {
+    "username": "altstudio3d",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 4.64
+  },
+  {
+    "username": "nerik_yoresel_lezzetler_konak",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 4.52
+  },
+  {
+    "username": "prince_sebastian_iggy",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 4.48
+  },
+  {
+    "username": "mobilyaemin1986",
+    "expected_category": "dekorasyon_mobilya",
+    "business_likelihood": 0.2,
+    "score": 4.44
+  },
+  {
+    "username": "tyfnglyz34",
+    "expected_category": "genel",
+    "business_likelihood": 0.2,
+    "score": 4.4
+  },
+  {
+    "username": "sorayturkan9",
+    "expected_category": "kitap_kultur",
+    "business_likelihood": 0.2,
+    "score": 4.36
+  },
+  {
+    "username": "mytakinti_",
+    "expected_category": "moda_yasam",
+    "business_likelihood": 0.4,
+    "score": 16.26
+  },
+  {
+    "username": "furia.valorant",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.4,
+    "score": 11.7
+  },
+  {
+    "username": "edirnetv",
+    "expected_category": "genel",
+    "business_likelihood": 0.4,
+    "score": 8.12
+  },
+  {
+    "username": "sondakikacyprus",
+    "expected_category": "teknoloji",
+    "business_likelihood": 0.4,
+    "score": 8.0
+  },
+  {
+    "username": "economylens",
+    "expected_category": "finans_is",
+    "business_likelihood": 0.4,
+    "score": 6.0
+  },
+  {
+    "username": "tam_tutan_tarifler25",
+    "expected_category": "genel",
+    "business_likelihood": 0.4,
+    "score": 5.42
+  },
+  {
+    "username": "study._.02_ing",
+    "expected_category": "genel",
+    "business_likelihood": 0.4,
+    "score": 4.8
+  },
+  {
+    "username": "i_am_lavish__03",
+    "expected_category": "oyun_espor",
+    "business_likelihood": 0.4,
+    "score": 4.56
+  },
+  {
+    "username": "eno_home23",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.6,
+    "score": 6.18
+  },
+  {
+    "username": "appleinsiderturkiye",
+    "expected_category": "genel",
+    "business_likelihood": 0.8,
+    "score": 33.28
+  },
+  {
+    "username": "tilia_skinfood",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 0.8,
+    "score": 7.34
+  },
+  {
+    "username": "besikduzuvodafoneeysmcenter",
+    "expected_category": "genel",
+    "business_likelihood": 1.0,
+    "score": 58.02
+  },
+  {
+    "username": "yavuzselimkartofficial",
+    "expected_category": "genel",
+    "business_likelihood": 1.0,
+    "score": 16.72
+  },
+  {
+    "username": "yaaycosmetic",
+    "expected_category": "guzellik_kozmetik",
+    "business_likelihood": 1.0,
+    "score": 6.08
+  },
+  {
+    "username": "networknewswire",
+    "expected_category": "finans_is",
+    "business_likelihood": 1.0,
+    "score": 4.4
+  },
+  {
+    "username": "smallcaprelations",
+    "expected_category": "finans_is",
+    "business_likelihood": 1.0,
+    "score": 4.4
+  }
+]

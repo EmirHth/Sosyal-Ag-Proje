@@ -1,0 +1,166 @@
+{
+  "product_query": "kadin yuz serumu",
+  "intent": {
+    "matched_categories": [
+      "guzellik_kozmetik"
+    ],
+    "matched_keywords": [
+      "yuz serumu"
+    ],
+    "mode": "authority"
+  },
+  "recommendations": [
+    {
+      "username": "alexadcloset",
+      "score": 0.6432,
+      "followers": 47802,
+      "follower_segment": "micro",
+      "avg_likes": 4889.5,
+      "avg_comments": 14.08,
+      "posts_analyzed": 12,
+      "categories": [
+        "guzellik_kozmetik"
+      ],
+      "matched_tags": [
+        "alexademiemakeup"
+      ],
+      "scenario_mode": "authority",
+      "score_breakdown": {
+        "relevance_score": 0.8,
+        "category_fit_score": 1.0,
+        "tag_match_score": 0.3333,
+        "authority_score": 0.1586,
+        "bridge_score": 0.0,
+        "engagement_score": 0.4688,
+        "follower_score": 0.6908
+      },
+      "reason": "kadin yuz serumu icin guzellik_kozmetik ekseninde uygun gorunuyor. Bu hesap ilgili kategoride guclu etki ve etkilesim sinyalleri veriyor. Kategori uyumu 1.00, alaka skoru 0.80. Eslesen etiketler: #alexademiemakeup. Ortalama etkilesim 4890 begeni ve 14 yorum."
+    },
+    {
+      "username": "christian.and.catherine",
+      "score": 0.5835,
+      "followers": 1274,
+      "follower_segment": "nano",
+      "avg_likes": 7.0,
+      "avg_comments": 0.17,
+      "posts_analyzed": 6,
+      "categories": [
+        "guzellik_kozmetik",
+        "otomotiv",
+        "evcil_hayvan"
+      ],
+      "matched_tags": [
+        "GreekBeautyBrand",
+        "faceserum",
+        "haircare",
+        "serum",
+        "skincare"
+      ],
+      "scenario_mode": "authority",
+      "score_breakdown": {
+        "relevance_score": 0.65,
+        "category_fit_score": 0.5,
+        "tag_match_score": 1.0,
+        "authority_score": 0.571,
+        "bridge_score": 0.2255,
+        "engagement_score": 0.1158,
+        "follower_score": 0.4585
+      },
+      "reason": "kadin yuz serumu icin guzellik_kozmetik, otomotiv, evcil_hayvan ekseninde uygun gorunuyor. Bu hesap ilgili kategoride guclu etki ve etkilesim sinyalleri veriyor. Kategori uyumu 0.50, alaka skoru 0.65. Eslesen etiketler: #GreekBeautyBrand, #faceserum, #haircare, #serum, #skincare. Ortalama etkilesim 7 begeni ve 0 yorum."
+    },
+    {
+      "username": "sinemuzunbeslenme",
+      "score": 0.5783,
+      "followers": 1316,
+      "follower_segment": "nano",
+      "avg_likes": 33.67,
+      "avg_comments": 2.5,
+      "posts_analyzed": 12,
+      "categories": [
+        "guzellik_kozmetik"
+      ],
+      "matched_tags": [
+        "LifeAndBeautyMag"
+      ],
+      "scenario_mode": "authority",
+      "score_breakdown": {
+        "relevance_score": 0.8,
+        "category_fit_score": 1.0,
+        "tag_match_score": 0.3333,
+        "authority_score": 0.1609,
+        "bridge_score": 0.0,
+        "engagement_score": 0.1994,
+        "follower_score": 0.4606
+      },
+      "reason": "kadin yuz serumu icin guzellik_kozmetik ekseninde uygun gorunuyor. Bu hesap ilgili kategoride guclu etki ve etkilesim sinyalleri veriyor. Kategori uyumu 1.00, alaka skoru 0.80. Eslesen etiketler: #LifeAndBeautyMag. Ortalama etkilesim 34 begeni ve 2 yorum."
+    },
+    {
+      "username": "kulawykurczak",
+      "score": 0.5145,
+      "followers": 9059,
+      "follower_segment": "nano",
+      "avg_likes": 35.75,
+      "avg_comments": 34.25,
+      "posts_analyzed": 8,
+      "categories": [
+        "guzellik_kozmetik",
+        "evcil_hayvan",
+        "moda_yasam"
+      ],
+      "matched_tags": [
+        "beauty",
+        "makeup",
+        "skincare"
+      ],
+      "scenario_mode": "authority",
+      "score_breakdown": {
+        "relevance_score": 0.65,
+        "category_fit_score": 0.5,
+        "tag_match_score": 1.0,
+        "authority_score": 0.151,
+        "bridge_score": 0.0045,
+        "engagement_score": 0.2348,
+        "follower_score": 0.5842
+      },
+      "reason": "kadin yuz serumu icin guzellik_kozmetik, evcil_hayvan, moda_yasam ekseninde uygun gorunuyor. Bu hesap ilgili kategoride guclu etki ve etkilesim sinyalleri veriyor. Kategori uyumu 0.50, alaka skoru 0.65. Eslesen etiketler: #beauty, #makeup, #skincare. Ortalama etkilesim 36 begeni ve 34 yorum."
+    },
+    {
+      "username": "noodleandbooinc",
+      "score": 0.4797,
+      "followers": 150266,
+      "follower_segment": "mid",
+      "avg_likes": 136.33,
+      "avg_comments": 42.17,
+      "posts_analyzed": 12,
+      "categories": [
+        "otomotiv",
+        "guzellik_kozmetik",
+        "anne_bebek"
+      ],
+      "matched_tags": [
+        "babyskincare",
+        "gentleskincare"
+      ],
+      "scenario_mode": "authority",
+      "score_breakdown": {
+        "relevance_score": 0.55,
+        "category_fit_score": 0.5,
+        "tag_match_score": 0.6667,
+        "authority_score": 0.4966,
+        "bridge_score": 0.0043,
+        "engagement_score": 0.2855,
+        "follower_score": 0.7643
+      },
+      "reason": "kadin yuz serumu icin otomotiv, guzellik_kozmetik, anne_bebek ekseninde uygun gorunuyor. Bu hesap ilgili kategoride guclu etki ve etkilesim sinyalleri veriyor. Kategori uyumu 0.50, alaka skoru 0.55. Eslesen etiketler: #babyskincare, #gentleskincare. Ortalama etkilesim 136 begeni ve 42 yorum."
+    }
+  ],
+  "graph": {
+    "nodes": 389,
+    "edges": 6713
+  },
+  "dataset": {
+    "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\processed\\clean_creator_dataset.csv",
+    "min_posts": 3,
+    "min_followers": 500
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "category": "ev_yasam",
+  "core_terms": ["robot supurge aparati", "camasir sepeti", "lavabo organizer", "banyo organizer", "cekmece duzenleyici", "dolap ici organizer", "saklama kutusu", "temizlik kovasi", "camasir deterjani", "oda kokusu", "mum", "havlu seti", "yastik", "nevresim", "mop", "cop kovasi", "raf duzenleyici", "vakum torbasi", "dis fircalik", "masaustu organizer"],
+  "product_nouns": ["organizer", "kutusu", "sepeti", "kovasi", "bezi", "deterjani", "yumusatici", "kokusu", "mum", "nevresim", "yastik", "havlu", "mop", "askisi", "torbasi", "rafi", "dispenser", "fircasi", "matı", "textili"],
+  "descriptors": ["ev", "banyo", "mutfak", "camasir", "temizlik", "duzenleme", "pratik", "gunluk", "minimal", "saklama"],
+  "audiences": ["ev kullanicisi", "aile", "yurt", "ofis", "gunluk kullanim"],
+  "contexts": ["evde", "banyoda", "mutfakta", "salonda", "dolap ici"],
+  "suffixes": ["seti", "urunu", "paketi", "kiti"]
+}

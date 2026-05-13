@@ -1,0 +1,9 @@
+{
+  "category": "teknoloji",
+  "core_terms": ["telefon", "tablet", "laptop", "mekanik klavye", "gaming mouse", "webcam", "mikrofon", "router", "modem", "akilli saat", "powerbank", "sarj kablosu", "ring light", "drone", "guvenlik kamerasi", "e kitap okuyucu", "akilli priz", "robot supurge", "vr gozluk", "mini projector"],
+  "product_nouns": ["telefon", "tablet", "laptop", "klavye", "mouse", "kulaklik", "kamera", "mikrofon", "monitor", "powerbank", "adaptoru", "hub", "router", "modem", "drone", "gozluk", "priz", "supurge", "yazici", "standi"],
+  "descriptors": ["akilli", "kablosuz", "bluetooth", "gaming", "profesyonel", "tasinabilir", "mini", "rgb", "usb", "dijital"],
+  "audiences": ["ogrenci", "ofis", "oyuncu", "uretici", "ev kullanicisi"],
+  "contexts": ["evde", "ofiste", "oyun", "yayin", "seyahat"],
+  "suffixes": ["seti", "kiti", "aksesuari", "urunu"]
+}

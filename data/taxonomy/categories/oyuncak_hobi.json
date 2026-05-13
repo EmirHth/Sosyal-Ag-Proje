@@ -1,0 +1,9 @@
+{
+  "category": "oyuncak_hobi",
+  "core_terms": ["lego seti", "uzaktan kumandali araba", "puzzle 1000 parca", "boyama seti", "hobi seti", "stem oyuncak", "zeka oyunu", "robotik set", "maket ucak", "craft seti", "diamond painting", "duyusal oyuncak", "koleksiyon figuru", "ahsap oyuncak", "aktivite kutusu", "oyun hamuru", "parmak boyasi", "rubik kupu", "masa oyunu", "kart oyunu"],
+  "product_nouns": ["oyuncak", "seti", "puzzle", "figuru", "maket", "boyasi", "kitabi", "kutusu", "hamuru", "karti", "oyunu", "robotu", "blok", "helikopter", "araba", "deney seti", "koleksiyon", "hobi kutusu", "mini figuru", "zeka oyunu"],
+  "descriptors": ["cocuk", "ahsap", "egitici", "yaratici", "koleksiyon", "hobi", "diy", "uzaktan kumandali", "duyusal", "stem"],
+  "audiences": ["cocuk", "genc", "aile", "koleksiyoncu", "hobi sever"],
+  "contexts": ["evde oyun", "masaustu", "eglence", "aktivite", "yaraticilik"],
+  "suffixes": ["seti", "kiti", "paketi", "kutusu"]
+}

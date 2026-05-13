@@ -1,0 +1,400 @@
+{
+  "categories": [
+    "seyahat_gezi",
+    "oyun_espor",
+    "kitap_kultur",
+    "dekorasyon_mobilya",
+    "teknoloji",
+    "fitness_saglik",
+    "guzellik_kozmetik",
+    "finans_is"
+  ],
+  "runs": [
+    {
+      "run_id": "eAZka6nL0r0FGXdYe",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_travel_1778257046.json",
+      "count": 24,
+      "hashtag": "travel",
+      "category": "seyahat_gezi"
+    },
+    {
+      "run_id": "BaxAfWgGzRDdBMNm8",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_seyahat_1778257060.json",
+      "count": 21,
+      "hashtag": "seyahat",
+      "category": "seyahat_gezi"
+    },
+    {
+      "run_id": "Yxjg6AxAfVgXEh4ky",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_gezi_1778257078.json",
+      "count": 21,
+      "hashtag": "gezi",
+      "category": "seyahat_gezi"
+    },
+    {
+      "run_id": "7uN8ujbcIC8hENurb",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_tatil_1778257093.json",
+      "count": 18,
+      "hashtag": "tatil",
+      "category": "seyahat_gezi"
+    },
+    {
+      "run_id": "h0fCgcDdygPyFjlI1",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_kamp_1778257111.json",
+      "count": 24,
+      "hashtag": "kamp",
+      "category": "seyahat_gezi"
+    },
+    {
+      "run_id": "24dMCz2cZmxyMnBLY",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_rota_1778257127.json",
+      "count": 27,
+      "hashtag": "rota",
+      "category": "seyahat_gezi"
+    },
+    {
+      "run_id": "OCRfF5vOj1nctGA6b",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_gaming_1778257143.json",
+      "count": 27,
+      "hashtag": "gaming",
+      "category": "oyun_espor"
+    },
+    {
+      "run_id": "Ri2p8wbLsdABSRGsz",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_esports_1778257154.json",
+      "count": 24,
+      "hashtag": "esports",
+      "category": "oyun_espor"
+    },
+    {
+      "run_id": "n5gecct2KKG2WYhj8",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_valorant_1778257172.json",
+      "count": 27,
+      "hashtag": "valorant",
+      "category": "oyun_espor"
+    },
+    {
+      "run_id": "oCz7buuqzhJkUC2a7",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_playstation_1778257191.json",
+      "count": 27,
+      "hashtag": "playstation",
+      "category": "oyun_espor"
+    },
+    {
+      "run_id": "o94mzhPaewwhbUbGA",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_xbox_1778257214.json",
+      "count": 24,
+      "hashtag": "xbox",
+      "category": "oyun_espor"
+    },
+    {
+      "run_id": "MZ3sRiVpUFeG8wpRg",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_steam_1778257234.json",
+      "count": 24,
+      "hashtag": "steam",
+      "category": "oyun_espor"
+    },
+    {
+      "run_id": "ZA1DHjEh0V07LH8fh",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_bookstagram_1778257250.json",
+      "count": 30,
+      "hashtag": "bookstagram",
+      "category": "kitap_kultur"
+    },
+    {
+      "run_id": "GuKBuAUKZ4Gj1LjFC",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_kitap_1778257269.json",
+      "count": 30,
+      "hashtag": "kitap",
+      "category": "kitap_kultur"
+    },
+    {
+      "run_id": "XQTn76bWqk24THUuT",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_edebiyat_1778257287.json",
+      "count": 27,
+      "hashtag": "edebiyat",
+      "category": "kitap_kultur"
+    },
+    {
+      "run_id": "mpRK3mNNCErShfIKk",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_reading_1778257303.json",
+      "count": 24,
+      "hashtag": "reading",
+      "category": "kitap_kultur"
+    },
+    {
+      "run_id": "p2MxXdKppe2ZTaFSw",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_şiir_1778257321.json",
+      "count": 24,
+      "hashtag": "şiir",
+      "category": "kitap_kultur"
+    },
+    {
+      "run_id": "yIqYoFH8LL9SjFFSy",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_roman_1778257351.json",
+      "count": 30,
+      "hashtag": "roman",
+      "category": "kitap_kultur"
+    },
+    {
+      "run_id": "H1Tli8arfErP75nG6",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_homedecor_1778257367.json",
+      "count": 12,
+      "hashtag": "homedecor",
+      "category": "dekorasyon_mobilya"
+    },
+    {
+      "run_id": "HdhqCKbVY4n6dxr7M",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_dekorasyon_1778257385.json",
+      "count": 27,
+      "hashtag": "dekorasyon",
+      "category": "dekorasyon_mobilya"
+    },
+    {
+      "run_id": "mbeXZa3oDEFfqUxgG",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_mobilya_1778257399.json",
+      "count": 15,
+      "hashtag": "mobilya",
+      "category": "dekorasyon_mobilya"
+    },
+    {
+      "run_id": "nUTjnGhkh8V1PCZR6",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_interiordesign_1778257419.json",
+      "count": 15,
+      "hashtag": "interiordesign",
+      "category": "dekorasyon_mobilya"
+    },
+    {
+      "run_id": "wNL8ySCvKqFAyBYyZ",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_evdekorasyonu_1778257432.json",
+      "count": 3,
+      "hashtag": "evdekorasyonu",
+      "category": "dekorasyon_mobilya"
+    },
+    {
+      "run_id": "8qzlpkOlCxcHHbXUb",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_dekor_1778257449.json",
+      "count": 24,
+      "hashtag": "dekor",
+      "category": "dekorasyon_mobilya"
+    },
+    {
+      "run_id": "3ZRNeB5IvwNjVzhEA",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_teknoloji_1778257464.json",
+      "count": 18,
+      "hashtag": "teknoloji",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "20QOLG5KPp9z9x2Un",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_tech_1778257487.json",
+      "count": 24,
+      "hashtag": "tech",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "ocsR2rc3jRgpXoyNV",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_gadget_1778257503.json",
+      "count": 21,
+      "hashtag": "gadget",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "IHsqsufjv3biOvCqV",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_gaming_1778257514.json",
+      "count": 27,
+      "hashtag": "gaming",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "A3RjTgkEB7bQYkhtD",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_smartphone_1778257532.json",
+      "count": 27,
+      "hashtag": "smartphone",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "ManRshzeQgAqjvL7L",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_akillisaat_1778257554.json",
+      "count": 24,
+      "hashtag": "akillisaat",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "ygIPZqBNId8WTSheE",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_kulaklik_1778257570.json",
+      "count": 21,
+      "hashtag": "kulaklik",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "wpCdrKkXUm2VvxID0",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_yapayzeka_1778257588.json",
+      "count": 21,
+      "hashtag": "yapayzeka",
+      "category": "teknoloji"
+    },
+    {
+      "run_id": "HgRiBIpZRzehV0onE",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_fitness_1778257604.json",
+      "count": 27,
+      "hashtag": "fitness",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "N6wqKQCBHvEByW9yX",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_pilates_1778257621.json",
+      "count": 24,
+      "hashtag": "pilates",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "x7J75d341uIKvn9lL",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_workout_1778257643.json",
+      "count": 18,
+      "hashtag": "workout",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "OHU6b2VV5np6ESh6w",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_healthylifestyle_1778257658.json",
+      "count": 21,
+      "hashtag": "healthylifestyle",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "jOdq6eAmPfTjATt8v",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_protein_1778257674.json",
+      "count": 30,
+      "hashtag": "protein",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "0zRorraM56sd1AeDh",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_yoga_1778257685.json",
+      "count": 15,
+      "hashtag": "yoga",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "45ereglEJwBQox0ln",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_kosu_1778257701.json",
+      "count": 6,
+      "hashtag": "kosu",
+      "category": "fitness_saglik"
+    },
+    {
+      "run_id": "dWatr8Oz62Xk5bfbI",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_serum_1778257713.json",
+      "count": 24,
+      "hashtag": "serum",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "Ns4xjdE4IRJhW3cRy",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_ciltbakimi_1778257732.json",
+      "count": 18,
+      "hashtag": "ciltbakimi",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "jMw1ckO82R34iLOkr",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_skincare_1778257748.json",
+      "count": 21,
+      "hashtag": "skincare",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "ZYmVy4x9ejNvP5EUx",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_makeup_1778257764.json",
+      "count": 27,
+      "hashtag": "makeup",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "bxAzrj3OiZVqIrMib",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_kozmetik_1778257783.json",
+      "count": 27,
+      "hashtag": "kozmetik",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "UmNTKlzDxz9xrAENc",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_yuzserumu_1778257802.json",
+      "count": 24,
+      "hashtag": "yuzserumu",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "cc0PKiajpzh025DQT",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_sacbakimi_1778257821.json",
+      "count": 21,
+      "hashtag": "sacbakimi",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "1pRqWS7OJf9Djgm27",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_makyaj_1778257833.json",
+      "count": 1,
+      "hashtag": "makyaj",
+      "category": "guzellik_kozmetik"
+    },
+    {
+      "run_id": "F27d4ltFOmpc34xNA",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_finance_1778257852.json",
+      "count": 27,
+      "hashtag": "finance",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "LSrxEBk3nEL6VAXky",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_investing_1778257870.json",
+      "count": 24,
+      "hashtag": "investing",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "kBo6qr5mZMhF391Xq",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_business_1778257887.json",
+      "count": 21,
+      "hashtag": "business",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "SmhuquyvvrTRJ3Ji9",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_startup_1778257908.json",
+      "count": 27,
+      "hashtag": "startup",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "xpyFiJSTBZNCNUSC8",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_economy_1778257922.json",
+      "count": 27,
+      "hashtag": "economy",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "o4ElownGzDz8zJea7",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_girisim_1778257939.json",
+      "count": 27,
+      "hashtag": "girisim",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "CGQXeybgCRTcCDKxm",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_borsa_1778257956.json",
+      "count": 30,
+      "hashtag": "borsa",
+      "category": "finans_is"
+    },
+    {
+      "run_id": "GPxtPmIqMGJiGlW9z",
+      "path": "C:\\Users\\emirh\\OneDrive\\Desktop\\Project_SNA\\data\\raw\\hashtag_yatirim_1778257971.json",
+      "count": 21,
+      "hashtag": "yatirim",
+      "category": "finans_is"
+    }
+  ],
+  "total_runs": 55
+}

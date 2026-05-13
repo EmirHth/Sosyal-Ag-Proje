@@ -1,0 +1,206 @@
+[
+  {
+    "username": "rosa_amazonica_10",
+    "expected_category": "guzellik_kozmetik",
+    "score": 32.0,
+    "business_likelihood": 0.4
+  },
+  {
+    "username": "gm_gozdemukavelat",
+    "expected_category": "guzellik_kozmetik",
+    "score": 29.12,
+    "business_likelihood": 0.4
+  },
+  {
+    "username": "noiraluxekozmetik",
+    "expected_category": "guzellik_kozmetik",
+    "score": 24.0,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "appleshops_7001_mumbai_",
+    "expected_category": "teknoloji",
+    "score": 12.0,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "violacosmetiics",
+    "expected_category": "guzellik_kozmetik",
+    "score": 8.14,
+    "business_likelihood": 0.4
+  },
+  {
+    "username": "pmselectionstore",
+    "expected_category": "ev_yasam",
+    "score": 6.0,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "medicalestetikcenter",
+    "expected_category": "guzellik_kozmetik",
+    "score": 5.32,
+    "business_likelihood": 1.0
+  },
+  {
+    "username": "e.luk7",
+    "expected_category": "genel",
+    "score": 4.84,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "raybao0512",
+    "expected_category": "genel",
+    "score": 4.42,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "_echec_et_maths_",
+    "expected_category": "ev_yasam",
+    "score": 4.24,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "gimsamarketler",
+    "expected_category": "yemek_mutfak",
+    "score": 4.24,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "raycosmetics16",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.2,
+    "business_likelihood": 3.0
+  },
+  {
+    "username": "afacankirtasiye19",
+    "expected_category": "ev_yasam",
+    "score": 4.16,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "dogal_kozmetik1",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.04,
+    "business_likelihood": 1.6
+  },
+  {
+    "username": "lolastoress",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.04,
+    "business_likelihood": 1.0
+  },
+  {
+    "username": "projects.__made_easy",
+    "expected_category": "egitim_kariyer",
+    "score": 4.04,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "success_academy_portugal",
+    "expected_category": "ev_yasam",
+    "score": 4.04,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "pigmentsepeti",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.02,
+    "business_likelihood": 0.4
+  },
+  {
+    "username": "85th__store__",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "christian.and.catherine",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "clair_glow",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "farmalben",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "my.scholar.aid",
+    "expected_category": "ev_yasam",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "mytreasureboutique",
+    "expected_category": "oyuncak_hobi",
+    "score": 4.0,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "oceantwenty9",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.2
+  },
+  {
+    "username": "pure_aura_cosmatics",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.6
+  },
+  {
+    "username": "rehberinsakarya",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "rosa_beauty___1",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.4
+  },
+  {
+    "username": "sassy.aken",
+    "expected_category": "ev_yasam",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "sfthaber",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 1.4
+  },
+  {
+    "username": "soomicosmetic",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 1.0
+  },
+  {
+    "username": "vitals.and.void",
+    "expected_category": "ev_yasam",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "yhcosmetologa",
+    "expected_category": "guzellik_kozmetik",
+    "score": 4.0,
+    "business_likelihood": 0.0
+  },
+  {
+    "username": "zarifluxurybutikkk",
+    "expected_category": "moda_yasam",
+    "score": 4.0,
+    "business_likelihood": 1.4
+  }
+]

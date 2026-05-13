@@ -1,0 +1,26 @@
+measure,rank,username,score,degree,weighted_degree,categories,follower_segment
+Degree Centrality,1,annevebebek2025,0.181009,61,29.0469,"anne_bebek,evcil_hayvan",micro
+Degree Centrality,2,hamilelikveanne,0.181009,61,29.0309,"anne_bebek,evcil_hayvan",micro
+Degree Centrality,3,itssyamaan,0.181009,61,28.9955,"anne_bebek,evcil_hayvan",nano
+Degree Centrality,4,bizimbebekgunlugu,0.181009,61,28.9854,"anne_bebek,evcil_hayvan",nano
+Degree Centrality,5,mucizeyolculugum,0.181009,61,28.884,"anne_bebek,evcil_hayvan",nano
+Betweenness Centrality,1,studyconkris,0.074254,54,24.8315,"egitim_kariyer,ev_yasam,evcil_hayvan",nano
+Betweenness Centrality,2,merlin.kleiner.verzauberer,0.059526,55,24.4153,"evcil_hayvan,anne_bebek,egitim_kariyer",nano
+Betweenness Centrality,3,ikkiturkiye,0.057941,25,9.9028,"otomotiv,finans_is",nano
+Betweenness Centrality,4,asliglbaz,0.033481,50,20.5254,"anne_bebek,yemek_mutfak",nano
+Betweenness Centrality,5,muzeyyenin_aynasi,0.03342,38,14.4814,"yemek_mutfak,egitim_kariyer",nano
+Closeness Centrality,1,itssyamaan,0.170093,61,28.9955,"anne_bebek,evcil_hayvan",nano
+Closeness Centrality,2,annevebebek2025,0.16941,61,29.0469,"anne_bebek,evcil_hayvan",micro
+Closeness Centrality,3,bizimbebekgunlugu,0.169324,61,28.9854,"anne_bebek,evcil_hayvan",nano
+Closeness Centrality,4,mucizeyolculugum,0.169128,61,28.884,"anne_bebek,evcil_hayvan",nano
+Closeness Centrality,5,hamilelikveanne,0.169111,61,29.0309,"anne_bebek,evcil_hayvan",micro
+Eigenvector Centrality,1,emine.bites,0.113336,41,25.5891,yemek_mutfak,nano
+Eigenvector Centrality,2,1gezi_1kahve,0.113267,41,25.5675,yemek_mutfak,micro
+Eigenvector Centrality,3,telveli.kahvem68,0.113235,41,25.5733,yemek_mutfak,nano
+Eigenvector Centrality,4,shushucum,0.11317,41,25.5618,yemek_mutfak,nano
+Eigenvector Centrality,5,ela.kitchenn,0.113084,41,25.5499,yemek_mutfak,nano
+PageRank,1,annevebebek2025,0.004368,61,29.0469,"anne_bebek,evcil_hayvan",micro
+PageRank,2,hamilelikveanne,0.004364,61,29.0309,"anne_bebek,evcil_hayvan",micro
+PageRank,3,itssyamaan,0.004361,61,28.9955,"anne_bebek,evcil_hayvan",nano
+PageRank,4,bizimbebekgunlugu,0.00436,61,28.9854,"anne_bebek,evcil_hayvan",nano
+PageRank,5,mucizeyolculugum,0.004344,61,28.884,"anne_bebek,evcil_hayvan",nano

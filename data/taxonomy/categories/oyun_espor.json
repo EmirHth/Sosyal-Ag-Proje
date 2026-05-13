@@ -1,0 +1,9 @@
+{
+  "category": "oyun_espor",
+  "core_terms": ["oyuncu kulakligi", "mekanik klavye", "rgb mousepad", "oyun kolu", "ps5 kolu", "xbox kolu", "stream mikrofonu", "capture card", "gaming chair", "oyuncu masasi", "keycap seti", "oyuncu webcami", "direksiyon seti", "vr aksesuarı", "vr aksesuari", "discord ekipmani", "gamepad", "sim rig", "oyuncu hoparloru", "oyun yayinci isigi"],
+  "product_nouns": ["kulakligi", "klavye", "mousepad", "kolu", "mikrofonu", "capture card", "chair", "masasi", "seti", "kamerasi", "direksiyonu", "aksesuarı", "aksesuari", "ekipmani", "hoparloru", "gozlugu", "lambasi", "sogutucu", "bilek destegi", "webcami"],
+  "descriptors": ["oyuncu", "gaming", "espor", "yayinci", "rgb", "fps", "moba", "stream", "konsol", "pc"],
+  "audiences": ["oyuncu", "yayinci", "esporcu", "konsol oyuncusu", "pc oyuncusu"],
+  "contexts": ["oyun", "yayin", "turnuva", "evde setup", "rekabetci oyun"],
+  "suffixes": ["seti", "paketi", "kiti", "aksesuari"]
+}

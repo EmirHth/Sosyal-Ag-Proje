@@ -1,0 +1,9 @@
+{
+  "category": "guzellik_kozmetik",
+  "core_terms": ["serum", "c vitamini serum", "retinol serum", "nemlendirici", "gunes kremi", "tonik", "misel su", "makyaj temizleyici", "yuz temizleme jeli", "goz kremi", "bb krem", "cc krem", "fondoten", "ruj", "rimel", "parfum", "deodorant", "bakim seti", "dudak nemlendirici", "peeling"],
+  "product_nouns": ["serum", "krem", "maskesi", "tonik", "temizleyici", "jel", "losyon", "sampuan", "kondisyoner", "parfum", "deodorant", "fondoten", "ruj", "rimel", "far paleti", "goz kremi", "dudak yagi", "makyaj seti", "bakim seti", "yuz spreyi"],
+  "descriptors": ["cilt bakim", "yuz bakim", "anti aging", "hassas cilt", "karma cilt", "kuru cilt", "leke karsiti", "parlaklik veren", "temizleyici", "nemlendirici"],
+  "audiences": ["kadin", "erkek", "unisex", "genclik", "yetiskin"],
+  "contexts": ["gunluk", "profesyonel", "evde", "bakim rutini", "gece bakimi"],
+  "suffixes": ["seti", "urunu", "kiti", "paketi"]
+}

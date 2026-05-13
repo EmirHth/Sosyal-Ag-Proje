@@ -1,0 +1,9 @@
+{
+  "category": "dekorasyon_mobilya",
+  "core_terms": ["tv unitesi", "sehpa seti", "duvar rafi", "makyaj masasi", "berjer", "dekoratif tablo", "duvar saati", "vazo", "abajur", "sarkit lamba", "tv arka panel", "perde", "hali", "dekor yastik kilifi", "yemek masasi", "komodin", "dresuar", "kitaplik", "portmanto", "ayakkabilik dolap"],
+  "product_nouns": ["unitesi", "sehpasi", "rafi", "masasi", "berjeri", "tablosu", "saati", "vazosu", "abajuru", "lambasi", "paneli", "perdesi", "halii", "kilifi", "komodini", "dresuari", "kitapligi", "dolabi", "koltugu", "sandalyesi"],
+  "descriptors": ["dekoratif", "minimal", "modern", "ahsap", "salon", "yatak odasi", "oturma odasi", "mutfak", "duvar", "tasarim"],
+  "audiences": ["ev sahipleri", "yeni evli", "aile", "ofis", "dekor sever"],
+  "contexts": ["salon", "yatak odasi", "mutfak", "ofis", "giris alani"],
+  "suffixes": ["seti", "takimi", "koleksiyonu", "paketi"]
+}

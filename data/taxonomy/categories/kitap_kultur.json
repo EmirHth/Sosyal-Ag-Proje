@@ -1,0 +1,9 @@
+{
+  "category": "kitap_kultur",
+  "core_terms": ["roman seti", "cocuk kitabi", "masal kitabi", "hikaye seti", "okuma lambasi", "kitap ayraci", "manga seti", "cizgi roman", "felsefe kitabi", "psikoloji kitabi", "tarih kitabi", "sanat dergisi", "edebiyat dergisi", "okuma gunlugu", "imzali kitap", "kitap kutusu", "biyografi", "bilim kitabi", "koleksiyon kitap", "kultur dergisi"],
+  "product_nouns": ["kitabi", "seti", "serisi", "dergisi", "kutusu", "ayraci", "lambasi", "gunlugu", "koleksiyonu", "romani", "mangasi", "cizgi romani", "paketi", "secisi", "rehberi", "edisyonu", "yayinı", "yayini", "kilifi", "gozlugu"],
+  "descriptors": ["cocuk", "okuma", "kultur", "edebiyat", "sanat", "bilim", "tarih", "felsefe", "psikoloji", "koleksiyon"],
+  "audiences": ["okur", "cocuk", "genc", "aile", "koleksiyoner"],
+  "contexts": ["okuma saati", "kutuphane", "evde okuma", "hediye", "koleksiyon"],
+  "suffixes": ["seti", "paketi", "koleksiyonu", "serisi"]
+}

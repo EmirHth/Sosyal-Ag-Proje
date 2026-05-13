@@ -1,0 +1,9 @@
+{
+  "category": "anne_bebek",
+  "core_terms": ["bebek bezi", "emzik", "biberon", "suluk", "pipetli bardak", "bebek mamasi", "bebek kremi", "bebek sampuani", "bebek battaniyesi", "bebek arabasi", "oto koltugu", "ana kucagi", "hamile yastigi", "bebek bakim cantasi", "bebek beslenme seti", "cocuk sulugu", "dis kasiyici", "bebek tabak seti", "bebek oyuncağı", "bebek telsizi"],
+  "product_nouns": ["biberon", "suluk", "bardak", "termos", "cantasi", "seti", "mama", "tabagi", "kasigi", "onlugu", "bez", "krem", "sampuan", "oyuncagi", "battaniyesi", "telsizi", "arabasi", "koltugu", "yastigi", "filesi"],
+  "descriptors": ["bebek", "cocuk", "anne", "hamile", "yenidogan", "lohusa", "beslenme", "bakim", "uyku", "dis"],
+  "audiences": ["bebek", "cocuk", "anne", "hamile", "yenidogan"],
+  "contexts": ["beslenme", "bakim", "uyku", "disarida", "evde"],
+  "suffixes": ["seti", "kiti", "urunu", "paketi"]
+}
