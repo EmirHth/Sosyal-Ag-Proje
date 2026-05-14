@@ -450,8 +450,59 @@ def diagram_4() -> None:
     image.save(OUT_DIR / "04_analiz_ve_kullanim_mantigi.png")
 
 
+def diagram_5() -> None:
+    image, draw = title_canvas(
+        "Proje Mantigi: Urunden Graph Tabanli Oneriye",
+        "Kapak slaydinda tek bakista gosterilecek ozet akis.",
+        (1500, 1700),
+        "#fbfaf7",
+    )
+
+    section_tag(draw, 70, 170, "Kapak Diyagrami", "#1d4ed8")
+
+    box(
+        draw,
+        (140, 280, 1360, 500),
+        "1. Urun Sorgusu",
+        "Kullanici bir urun girer.\n\nOrnek:\n- kadin yuz serumu\n- spor matarasi\n- kamp termosu",
+        "#eff6ff",
+        "#60a5fa",
+    )
+    box(
+        draw,
+        (140, 620, 1360, 900),
+        "2. Urun Sinyallerinin Cikarimi",
+        "Sorgu normalize edilir ve kategori sozlugu ile eslestirilir.\n\nCikti:\n- kategori niyeti\n- kullanim baglami\n- urun tipi",
+        "#f8fafc",
+        "#94a3b8",
+    )
+    box(
+        draw,
+        (140, 1020, 1360, 1320),
+        "3. Creator Similarity Graph",
+        "Influencerlar arasi agirlikli sosyal ag kullanilir.\n\nKararda kullanilan ana olculer:\n- authority_score\n- bridge_score\n- topluluk bilgisi\n- etkilesim",
+        "#ecfeff",
+        "#14b8a6",
+    )
+    box(
+        draw,
+        (140, 1440, 1360, 1620),
+        "4. En Uygun Influencer Onerisi",
+        "Sistem urune en uygun creatorlari skorlayip ilk adaylari onerir.\n\nYani proje, sosyal ag analizini dogrudan karar mekanizmasina baglar.",
+        "#f0fdf4",
+        "#22c55e",
+    )
+
+    arrow(draw, (750, 500), (750, 620))
+    arrow(draw, (750, 900), (750, 1020))
+    arrow(draw, (750, 1320), (750, 1440))
+
+    image.save(OUT_DIR / "05_kapak_proje_mantigi.png")
+
+
 if __name__ == "__main__":
     diagram_1()
     diagram_2()
     diagram_3()
     diagram_4()
+    diagram_5()

@@ -635,7 +635,7 @@ def draw_network_overview_polished(
         plt.Line2D([0], [0], marker="o", color="w", label=category, markerfacecolor=category_to_color[category], markersize=9)
         for category in categories
     ]
-    plt.legend(
+    category_legend = plt.legend(
         handles=legend_handles,
         title="Baskin kategoriler",
         loc="upper left",
@@ -643,6 +643,22 @@ def draw_network_overview_polished(
         frameon=False,
         fontsize=10,
         title_fontsize=11,
+    )
+    plt.gca().add_artist(category_legend)
+    size_handles = [
+        plt.scatter([], [], s=size, color="#94a3b8", edgecolors="#334155")
+        for size in (80, 180, 320)
+    ]
+    plt.legend(
+        size_handles,
+        ["Dusuk weighted degree", "Orta weighted degree", "Yuksek weighted degree"],
+        title="Dugum boyutu",
+        loc="upper left",
+        bbox_to_anchor=(1.01, 0.72),
+        frameon=False,
+        fontsize=10,
+        title_fontsize=11,
+        scatterpoints=1,
     )
     plt.title("Genel Ag Grafigi: Creator Benzerlik Omurgasi", fontsize=22)
     plt.axis("off")
@@ -737,6 +753,22 @@ def draw_centrality_graph_polished(
     )
     colorbar = plt.colorbar(nodes, shrink=0.78)
     colorbar.ax.tick_params(labelsize=10)
+    colorbar.set_label("Betweenness centrality", fontsize=11)
+    size_handles = [
+        plt.scatter([], [], s=size, color="#fbbf24", edgecolors="#1f2937")
+        for size in (700, 1400, 2400)
+    ]
+    plt.legend(
+        size_handles,
+        ["Dusuk kopru rolu", "Orta kopru rolu", "Yuksek kopru rolu"],
+        title="Dugum boyutu",
+        loc="upper left",
+        bbox_to_anchor=(1.01, 0.78),
+        frameon=False,
+        fontsize=10,
+        title_fontsize=11,
+        scatterpoints=1,
+    )
     plt.title("Merkezilik Grafigi: Betweenness Temelli Kopru Dugumler", fontsize=22)
     plt.axis("off")
     plt.tight_layout()
@@ -813,7 +845,7 @@ def draw_community_graph_polished(
         plt.Line2D([0], [0], marker="o", color="w", label=f"Topluluk {community_id}", markerfacecolor=color_map(index), markersize=9)
         for index, community_id in enumerate(communities)
     ]
-    plt.legend(
+    community_legend = plt.legend(
         handles=legend_handles,
         title="Louvain topluluklari",
         loc="upper left",
@@ -821,6 +853,15 @@ def draw_community_graph_polished(
         frameon=False,
         fontsize=10,
         title_fontsize=11,
+    )
+    plt.gca().add_artist(community_legend)
+    label_handle = plt.Line2D([0], [0], marker="s", color="w", label="Etiketli dugumler = kopru adaylari", markerfacecolor="#111827", markersize=8)
+    plt.legend(
+        handles=[label_handle],
+        loc="upper left",
+        bbox_to_anchor=(1.01, 0.72),
+        frameon=False,
+        fontsize=10,
     )
     plt.title("Topluluk Grafigi: Louvain Topluluk Yapisi", fontsize=22)
     plt.axis("off")
@@ -866,6 +907,231 @@ def draw_degree_distribution_polished(graph: nx.Graph, destination: Path) -> Non
         frameon=False,
         fontsize=11,
     )
+    plt.tight_layout()
+    plt.savefig(destination, dpi=360, bbox_inches="tight")
+    plt.close()
+
+
+def draw_community_size_chart(community_summary: pd.DataFrame, destination: Path) -> None:
+    summary = community_summary.sort_values("size", ascending=False).copy()
+    labels = [f"T{community_id}" for community_id in summary["community_id"]]
+    plt.figure(figsize=(16, 9))
+    bars = plt.bar(labels, summary["size"], color=plt.get_cmap("tab10").colors[: len(summary)])
+    plt.title("Topluluk Buyuklukleri", fontsize=22)
+    plt.xlabel("Topluluk", fontsize=15)
+    plt.ylabel("Dugum sayisi", fontsize=15)
+    plt.xticks(fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.grid(axis="y", alpha=0.2)
+    for bar, category_text in zip(bars, summary["top_categories"]):
+        plt.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height() + 1,
+            category_text.split(",")[0],
+            ha="center",
+            va="bottom",
+            fontsize=9,
+            rotation=0,
+        )
+    plt.tight_layout()
+    plt.savefig(destination, dpi=360, bbox_inches="tight")
+    plt.close()
+
+
+def draw_top_centrality_comparison(centrality_top5: pd.DataFrame, destination: Path) -> None:
+    selected_measures = [
+        "Degree Centrality",
+        "Betweenness Centrality",
+        "Closeness Centrality",
+        "Eigenvector Centrality",
+        "PageRank",
+    ]
+    summary = centrality_top5[centrality_top5["rank"] == 1].copy()
+    summary = summary[summary["measure"].isin(selected_measures)].set_index("measure").loc[selected_measures].reset_index()
+    plt.figure(figsize=(16, 9))
+    bars = plt.bar(summary["measure"], summary["score"], color=["#2563eb", "#dc2626", "#059669", "#7c3aed", "#ea580c"])
+    plt.title("Merkezilik Olcutlerine Gore En Ust Dugumler", fontsize=22)
+    plt.ylabel("Skor", fontsize=15)
+    plt.xticks(rotation=15, ha="right", fontsize=12)
+    plt.yticks(fontsize=12)
+    plt.grid(axis="y", alpha=0.2)
+    for bar, username in zip(bars, summary["username"]):
+        plt.text(
+            bar.get_x() + bar.get_width() / 2,
+            bar.get_height(),
+            username,
+            ha="center",
+            va="bottom",
+            fontsize=10,
+            rotation=0,
+        )
+    plt.tight_layout()
+    plt.savefig(destination, dpi=360, bbox_inches="tight")
+    plt.close()
+
+
+def draw_backbone_overview(
+    graph: nx.Graph,
+    node_table: pd.DataFrame,
+    destination: Path,
+    min_weight: float = 0.45,
+) -> None:
+    strong_edges = [(u, v, data) for u, v, data in graph.edges(data=True) if float(data.get("weight", 0.0)) >= min_weight]
+    backbone = nx.Graph()
+    backbone.add_nodes_from(graph.nodes(data=True))
+    backbone.add_edges_from(strong_edges)
+    backbone.remove_nodes_from(list(nx.isolates(backbone)))
+    if backbone.number_of_nodes() == 0:
+        return
+
+    positions = build_component_layout(backbone)
+    category_lookup = node_table.set_index("username")["primary_category"].to_dict()
+    top_categories = top_category_legend(node_table, limit=8)
+    color_map = plt.get_cmap("Set2", max(len(top_categories), 1))
+    category_to_color = {category: color_map(index) for index, category in enumerate(top_categories)}
+    node_colors = [
+        category_to_color.get(category_lookup.get(node, "unknown"), (0.8, 0.8, 0.8, 0.9))
+        for node in backbone.nodes()
+    ]
+    weighted_degree_lookup = dict(backbone.degree(weight="weight"))
+    node_sizes = [60 + weighted_degree_lookup.get(node, 0.0) * 14 for node in backbone.nodes()]
+
+    plt.figure(figsize=(22, 14))
+    nx.draw_networkx_edges(backbone, positions, alpha=0.24, edge_color="#94a3b8", width=1.0)
+    nx.draw_networkx_nodes(
+        backbone,
+        positions,
+        node_size=node_sizes,
+        node_color=node_colors,
+        linewidths=0.35,
+        edgecolors="#334155",
+    )
+    top_nodes = sorted(weighted_degree_lookup, key=weighted_degree_lookup.get, reverse=True)[:16]
+    nx.draw_networkx_labels(
+        backbone,
+        positions,
+        labels={node: node for node in top_nodes},
+        font_size=10,
+        font_weight="bold",
+        bbox={"facecolor": "white", "alpha": 0.82, "edgecolor": "none", "pad": 0.2},
+    )
+    legend_handles = [
+        plt.Line2D([0], [0], marker="o", color="w", label=category, markerfacecolor=category_to_color[category], markersize=9)
+        for category in top_categories
+    ]
+    plt.legend(
+        handles=legend_handles,
+        title="Baskin kategoriler",
+        loc="upper left",
+        bbox_to_anchor=(1.01, 1.0),
+        frameon=False,
+        fontsize=10,
+        title_fontsize=11,
+    )
+    plt.title("Guculu Baglantilarla Ag Omurgasi", fontsize=22)
+    plt.axis("off")
+    plt.tight_layout()
+    plt.savefig(destination, dpi=360, bbox_inches="tight")
+    plt.close()
+
+
+def draw_centrality_focus_subgraph(
+    graph: nx.Graph,
+    centrality_df: pd.DataFrame,
+    destination: Path,
+    focus_size: int = 28,
+) -> None:
+    top_nodes = centrality_df.sort_values(
+        ["betweenness_centrality", "weighted_degree", "username"],
+        ascending=[False, False, True],
+    ).head(focus_size)["username"].tolist()
+    focus_graph = graph.subgraph(top_nodes).copy()
+    if focus_graph.number_of_nodes() == 0:
+        return
+
+    positions = nx.spring_layout(focus_graph, seed=RANDOM_SEED, weight="weight", k=0.55, iterations=350)
+    score_lookup = centrality_df.set_index("username")["betweenness_centrality"].to_dict()
+    node_sizes = [700 + score_lookup.get(node, 0.0) * 26000 for node in focus_graph.nodes()]
+    node_colors = [score_lookup.get(node, 0.0) for node in focus_graph.nodes()]
+
+    plt.figure(figsize=(22, 14))
+    edge_widths = [1.0 + float(data.get("weight", 0.0)) * 3.2 for _, _, data in focus_graph.edges(data=True)]
+    nx.draw_networkx_edges(focus_graph, positions, alpha=0.28, edge_color="#94a3b8", width=edge_widths)
+    nodes = nx.draw_networkx_nodes(
+        focus_graph,
+        positions,
+        node_size=node_sizes,
+        node_color=node_colors,
+        cmap="YlOrRd",
+        linewidths=0.45,
+        edgecolors="#1f2937",
+    )
+    nx.draw_networkx_labels(
+        focus_graph,
+        positions,
+        labels={node: node for node in focus_graph.nodes()},
+        font_size=9,
+        font_weight="bold",
+        bbox={"facecolor": "white", "alpha": 0.82, "edgecolor": "none", "pad": 0.18},
+    )
+    colorbar = plt.colorbar(nodes, shrink=0.78)
+    colorbar.ax.tick_params(labelsize=10)
+    colorbar.set_label("Betweenness centrality", fontsize=11)
+    plt.title("En Onemli Kopru Dugumlerin Alt Agi", fontsize=22)
+    plt.axis("off")
+    plt.tight_layout()
+    plt.savefig(destination, dpi=360, bbox_inches="tight")
+    plt.close()
+
+
+def draw_community_meta_graph(
+    lcc: nx.Graph,
+    community_assignments: pd.DataFrame,
+    destination: Path,
+) -> None:
+    assignment_lookup = community_assignments.set_index("username")["community_id"].to_dict()
+    meta_graph = nx.Graph()
+
+    for community_id, group in community_assignments.groupby("community_id"):
+        meta_graph.add_node(
+            int(community_id),
+            size=int(group.shape[0]),
+        )
+
+    edge_weights: dict[tuple[int, int], int] = {}
+    for source, target in lcc.edges():
+        source_community = int(assignment_lookup[source])
+        target_community = int(assignment_lookup[target])
+        if source_community == target_community:
+            continue
+        edge_key = tuple(sorted((source_community, target_community)))
+        edge_weights[edge_key] = edge_weights.get(edge_key, 0) + 1
+
+    for (source_community, target_community), weight in edge_weights.items():
+        meta_graph.add_edge(source_community, target_community, weight=weight)
+
+    positions = nx.spring_layout(meta_graph, seed=RANDOM_SEED, weight="weight", k=1.4, iterations=300)
+    node_sizes = [meta_graph.nodes[node]["size"] * 90 for node in meta_graph.nodes()]
+    node_colors = list(plt.get_cmap("tab10").colors[: meta_graph.number_of_nodes()])
+    edge_widths = [1.0 + data["weight"] / 18 for _, _, data in meta_graph.edges(data=True)]
+
+    plt.figure(figsize=(16, 10))
+    nx.draw_networkx_edges(meta_graph, positions, edge_color="#94a3b8", width=edge_widths, alpha=0.45)
+    nx.draw_networkx_nodes(
+        meta_graph,
+        positions,
+        node_size=node_sizes,
+        node_color=node_colors,
+        edgecolors="#334155",
+        linewidths=0.6,
+    )
+    labels = {
+        node: f"Topluluk {node}\n({meta_graph.nodes[node]['size']} dugum)"
+        for node in meta_graph.nodes()
+    }
+    nx.draw_networkx_labels(meta_graph, positions, labels=labels, font_size=10, font_weight="bold")
+    plt.title("Topluluklar Arasi Meta-Ag", fontsize=22)
+    plt.axis("off")
     plt.tight_layout()
     plt.savefig(destination, dpi=360, bbox_inches="tight")
     plt.close()
@@ -1285,6 +1551,11 @@ def run_analysis(
     draw_centrality_graph_polished(lcc, centrality_df, positions, figures_dir / "06_betweenness_centrality_network_polished.png")
     draw_community_graph_polished(lcc, community_assignments, bridges_df, positions, figures_dir / "07_louvain_communities_polished.png")
     draw_degree_distribution_polished(graph, figures_dir / "08_degree_distribution_polished.png")
+    draw_community_size_chart(community_summary, figures_dir / "09_community_size_chart.png")
+    draw_top_centrality_comparison(centrality_top5, figures_dir / "10_top_centrality_comparison.png")
+    draw_backbone_overview(graph, node_table, figures_dir / "11_backbone_overview.png")
+    draw_centrality_focus_subgraph(lcc, centrality_df, figures_dir / "12_centrality_focus_subgraph.png")
+    draw_community_meta_graph(lcc, community_assignments, figures_dir / "13_community_meta_graph.png")
 
     report_path = BASE_DIR / "docs" / "sna_project_report.md"
     write_markdown_report(
